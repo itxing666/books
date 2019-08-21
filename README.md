@@ -143,3 +143,9 @@
 8. [数据可视化基础](https://serialmentor.com/dataviz/)
 9. [Marc Andreessen 创业文集](https://pmarchive.com/)
 
+
+
+##### 备注：
+
+本项目将不断更新收集，如果你感兴趣，可以持续关注。同时，欢迎你提出宝贵的意见，或者投稿。
+
