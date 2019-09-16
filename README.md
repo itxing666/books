@@ -27,7 +27,7 @@
 12. [OAuth 2.0 Servers](https://www.oauth.com/)
 13. [JAMstack Web 开发](https://www.netlify.com/oreilly-jamstack/)
 14. [Azure 介绍（第二版）](https://azure.microsoft.com/en-us/resources/azure-for-architects/)，[下载](https://github.com/PacktPublishing/Azure-for-Architects)
-15. [JavaScript高级程序设计（第3版）](./libs/web/JavaScript高级程序设计（第3版）非扫描版.pdf)
+15. [JavaScript高级程序设计（第3版）](https://pan.baidu.com/s/1q1KxvaHJ2rBa9x5E7eld7g)     提取码：j5dz
 
 ## 系统管理
 
